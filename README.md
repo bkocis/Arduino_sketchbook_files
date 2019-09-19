@@ -6,9 +6,9 @@ Repository of .ino files of various projects.
 The projects are not described here. 
 
 
--------
+<hr>
 
-#### **Note on running arduino/libraries**
+#### **Note on running arduino/libraries:**
 
 
 -1. Arduino libraries are located at sudo su; root /Arduino folder 
